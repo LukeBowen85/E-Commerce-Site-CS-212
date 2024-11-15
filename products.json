@@ -1,0 +1,46 @@
+{
+    "products": [
+      {
+        "name": "Classic Cheddar",
+        "description": "Made from 100% whole milk, this classic cheddar is a good basis for any snacking.",
+        "price": 6.99,
+        "image_url": "productimg/cheddar/cheddar_1.jpg",
+        "filter_words": "Cheese, Cheddar, Yellow"
+      },
+      {
+        "name": "Parmesan",
+        "description": "Made from cow's milk, this cheese is aged for at least 12 months, with some varieties maturing for even longer, developing deeper flavors and a crumbly texture. Whether paired with rich tomato sauce or used in a creamy risotto, Parmesan adds a bold, savory taste to any dish..",
+        "price": 7.99,
+        "image_url": "productimg/parmesan/parmesan_1.jpg",
+        "filter_words": "Cheese, Parmesan, White"
+      },
+      {
+        "name": "Brie",
+        "description": "Brie is perfect when spread on crackers, paired with fresh fruit, or melted over vegetables. Whether served chilled or baked to a gooey perfection, Brie is a versatile cheese that adds a touch of luxury to any meal.",
+        "price": 12.99,
+        "image_url": "productimg/brie/brie_1.jpg",
+        "filter_words": "Cheese, Brie, White, Yellow"
+      },
+      {
+        "name": "Colby Jack",
+        "description": "Colby Jack is versatile and easy to work with in the kitchen, making it perfect for melting on burgers, sandwiches, or in a classic grilled cheese. Its mild flavor and smooth melt make it a great addition to salads, tacos, or nachos.",
+        "price": 6.99,
+        "image_url": "productimg/colbyjack/colbyjack_1.jpg",
+        "filter_words": "Cheese, Colby, Jack, Yellow"
+      },
+      {
+        "name": "Mozzarella",
+        "description": "Made from buffalo or cow’s milk, fresh mozzarella has a creamy, milky taste and a slightly tangy finish. This cheese is often used in salads like Caprese, on pizzas, and in lasagna.",
+        "price": 10.99,
+        "image_url": "productimg/mozzarella/mozzarella_1.jpg",
+        "filter_words": "Cheese, Mozzarella, White"
+      },
+      {
+        "name": "Gouda",
+        "description": "Gouda is a semi-hard cheese that hails from the Netherlands, beloved for its smooth texture and sweet, slightly nutty flavor. The flavor profile of Gouda becomes richer and more complex as it ages, developing a deeper, caramel-like sweetness.",
+        "price": 12.99,
+        "image_url": "productimg/gouda/gouda_1.jpg",
+        "filter_words": "Cheese, Gouda, Yellow, White"
+      }
+    ]
+  }

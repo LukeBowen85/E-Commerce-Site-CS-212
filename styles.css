@@ -1,0 +1,11 @@
+#product-container{
+    background-image: linear-gradient(to bottom right, white, rgb(41, 39, 52))
+}
+
+.card{
+    margin: 5px;
+}
+.card-img-top{
+    border-radius: 10px;
+    margin-top: 10px;
+}
